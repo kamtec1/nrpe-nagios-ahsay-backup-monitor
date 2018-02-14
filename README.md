@@ -22,3 +22,4 @@ command[check_backup]=/usr/bin/sudo /usr/lib64/nagios/plugins/backup_ahsay_check
 And the Final step is to define service/define command to specific servers in Nagios server.
 
 
+P.S. Dont forget to change IP , backupset id and etc in parse_api_web_log_server0XX
